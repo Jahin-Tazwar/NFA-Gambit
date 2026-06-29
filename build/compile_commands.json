@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/project/Chess game/build",
+  "command": "C:\\raylib\\w64devkit\\bin\\g++.exe -I\"C:/project/Chess game/src\" -I\"C:/project/Chess game/src/engine\" -I\"C:/project/Chess game/src/gui\" -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\chess-game.dir\\src\\main.cpp.obj -c \"C:\\project\\Chess game\\src\\main.cpp\"",
+  "file": "C:/project/Chess game/src/main.cpp",
+  "output": "C:/project/Chess game/build/CMakeFiles/chess-game.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/project/Chess game/build",
+  "command": "C:\\raylib\\w64devkit\\bin\\g++.exe -I\"C:/project/Chess game/src\" -I\"C:/project/Chess game/src/engine\" -I\"C:/project/Chess game/src/gui\" -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\chess-game.dir\\src\\engine\\Piece.cpp.obj -c \"C:\\project\\Chess game\\src\\engine\\Piece.cpp\"",
+  "file": "C:/project/Chess game/src/engine/Piece.cpp",
+  "output": "C:/project/Chess game/build/CMakeFiles/chess-game.dir/src/engine/Piece.cpp.obj"
+},
+{
+  "directory": "C:/project/Chess game/build",
+  "command": "C:\\raylib\\w64devkit\\bin\\g++.exe -I\"C:/project/Chess game/src\" -I\"C:/project/Chess game/src/engine\" -I\"C:/project/Chess game/src/gui\" -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\chess-game.dir\\src\\engine\\Board.cpp.obj -c \"C:\\project\\Chess game\\src\\engine\\Board.cpp\"",
+  "file": "C:/project/Chess game/src/engine/Board.cpp",
+  "output": "C:/project/Chess game/build/CMakeFiles/chess-game.dir/src/engine/Board.cpp.obj"
+},
+{
+  "directory": "C:/project/Chess game/build",
+  "command": "C:\\raylib\\w64devkit\\bin\\g++.exe -I\"C:/project/Chess game/src\" -I\"C:/project/Chess game/src/engine\" -I\"C:/project/Chess game/src/gui\" -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\chess-game.dir\\src\\engine\\Move.cpp.obj -c \"C:\\project\\Chess game\\src\\engine\\Move.cpp\"",
+  "file": "C:/project/Chess game/src/engine/Move.cpp",
+  "output": "C:/project/Chess game/build/CMakeFiles/chess-game.dir/src/engine/Move.cpp.obj"
+},
+{
+  "directory": "C:/project/Chess game/build",
+  "command": "C:\\raylib\\w64devkit\\bin\\g++.exe -I\"C:/project/Chess game/src\" -I\"C:/project/Chess game/src/engine\" -I\"C:/project/Chess game/src/gui\" -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\chess-game.dir\\src\\gui\\Window.cpp.obj -c \"C:\\project\\Chess game\\src\\gui\\Window.cpp\"",
+  "file": "C:/project/Chess game/src/gui/Window.cpp",
+  "output": "C:/project/Chess game/build/CMakeFiles/chess-game.dir/src/gui/Window.cpp.obj"
+},
+{
+  "directory": "C:/project/Chess game/build",
+  "command": "C:\\raylib\\w64devkit\\bin\\g++.exe -I\"C:/project/Chess game/src\" -I\"C:/project/Chess game/src/engine\" -I\"C:/project/Chess game/src/gui\" -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\chess-game.dir\\src\\gui\\Assets.cpp.obj -c \"C:\\project\\Chess game\\src\\gui\\Assets.cpp\"",
+  "file": "C:/project/Chess game/src/gui/Assets.cpp",
+  "output": "C:/project/Chess game/build/CMakeFiles/chess-game.dir/src/gui/Assets.cpp.obj"
+}
+]
