@@ -40,6 +40,7 @@ src/
   assets/pieces/  Piece sprite images (PNG)
   main.cpp        Entry point
 CMakeLists.txt
+PROJECT.md        Learning roadmap and mentoring contract for this project
 ```
 
 ## Building
